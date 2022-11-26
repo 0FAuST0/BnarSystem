@@ -9,7 +9,7 @@ for (; startNumber > 0;)
     processNumberInt = startNumber / 2;
     processNumber = startNumber % 2;
     string bufer = processNumber.ToString();
-    numberIs2 += bufe;
+    numberIs2 += bufer;
     startNumber = processNumberInt;
 
 }
